@@ -27,8 +27,8 @@ const projects = [
     title: "Portfolio",
     desc: "Modern and Fully Responsive Portfolio App with React and Tailwind CSS",
     devStack: "HTML, React JS, Tailwind CSS, Next JS, Framer Motion",
-    link: "https://link-to-project3.com",
-    git: "https://github.com/user/project3",
+    link: "https://portfolio-next-1guf.vercel.app/",
+    git: "https://github.com/Nilogrib/Portfolio_Next",
     src: proj2
   }
 ]
