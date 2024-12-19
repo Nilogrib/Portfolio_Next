@@ -5,7 +5,6 @@ import { motion } from "framer-motion";
 import proj1 from "../assets/proj1.png";
 import proj2 from "../assets/proj2.png";
 import proj3 from "../assets/proj3.png";
-import book from "../assets/book.png";
 
 const projects = [
   {
