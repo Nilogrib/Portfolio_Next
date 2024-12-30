@@ -12,15 +12,15 @@ const projects = [
     desc: "Working implementation of a fully functional food delivery app with a separate admin panel",
     devStack: "HTML, CSS, React JS, Mongo DB, Express JS, Node JS",
     link: "https://food-del-frontend-9yw5.onrender.com/",
-    git: "https://github.com/user/project1https://github.com/Nilogrib/food-del",
+    git: "https://github.com/Nilogrib/food-del",
     src: proj1
   },
   {
     title: "Project 2",
-    desc: "Description for project 2",
-    devStack: "Tech stack for project 2",
-    link: "https://link-to-project2.com",
-    git: "https://github.com/user/project2",
+    desc: "A movie recommendation system and encyclopedia based on NLP",
+    devStack: "Python, Streamlit, scikit-learn, Pandas, NTLK",
+    link: "https://github.com/Nilogrib/Moviepedia",
+    git: "https://github.com/Nilogrib/Moviepedia",
     src: proj3
   },
   {
@@ -60,9 +60,9 @@ const Portfolio = () => {
               <Image 
                 src={project.src} 
                 alt={project.title} 
-                width={400} 
-                height={400} 
-                className="h-[350px] w-[500px] object-cover border rounded border-gray-700"
+                width={500} 
+                height={350} 
+                className="w-[500px] h-[350px] object-cover border rounded border-gray-700"
               />
             </div>
           </motion.div>
