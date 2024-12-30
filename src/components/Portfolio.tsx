@@ -64,9 +64,9 @@ const Portfolio = () => {
               <Image
                 src={project.src}
                 alt={project.title}
-                width={600} // Increased width
-                height={400} // Increased height
-                className="w-[600px] h-[400px] object-cover border rounded border-gray-700"
+                width={600}
+                height={400}
+                className="w-full max-w-[600px] h-auto object-contain border rounded-lg border-gray-700"
               />
             </div>
           </motion.div>
