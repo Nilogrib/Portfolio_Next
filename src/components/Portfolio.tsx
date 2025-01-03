@@ -19,8 +19,8 @@ const projects = [
     title: "Moviepedia",
     desc: "A movie recommendation system and encyclopedia based on NLP",
     devStack: "Python, Streamlit, scikit-learn, Pandas, NTLK",
-    link: "https://github.com/Nilogrib/Moviepedia",
-    git: "https://drive.google.com/drive/folders/1ZmW3WbXiSmQk92ZJFMB_0QHbyBxJdKQG?usp=sharing",
+    link: "https://drive.google.com/drive/folders/1ZmW3WbXiSmQk92ZJFMB_0QHbyBxJdKQG?usp=sharing",
+    git: "https://github.com/Nilogrib/Moviepedia",
     src: proj3,
   },
   {
